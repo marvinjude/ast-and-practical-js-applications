@@ -34,4 +34,4 @@ To run the fixer: `pnpm lint --fix`
 
 ```
 
-Caio 👋
+Ciao 👋
