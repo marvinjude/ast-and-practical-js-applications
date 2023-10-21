@@ -1,0 +1,17 @@
+{
+  "name": "eslint-plugin-emojify-array",
+  "version": "1.0.0",
+  "description": "No boring arrays",
+  "keywords": [
+    "eslint",
+    "emojis",
+    "eslint-plugin"
+  ],
+  "author": "Jude Agboola",
+  "main": "./lib/index.js",
+  "exports": "./lib/index.js",
+  "devDependencies": {
+    "eslint": "^8.19.0"
+  },
+  "license": "MIT"
+}

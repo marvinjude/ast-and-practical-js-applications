@@ -1,0 +1,19 @@
+{
+  "name": "babel-plugin-remove-console",
+  "version": "1.0.0",
+  "description": "Plugin to remove console.log statements from your code",
+  "keywords": [
+    "babel",
+    "plugin",
+    "console",
+    "log",
+    "remove"
+  ],
+  "author": "Jude Agboola",
+  "main": "./lib/index.js",
+  "exports": "./lib/index.js",
+  "devDependencies": {
+    "@babel/core": "^7.23.0"
+  },
+  "license": "MIT"
+}

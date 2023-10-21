@@ -1,0 +1,20 @@
+{
+  "name": "ast-and-practical-js-applications",
+  "version": "1.0.0",
+  "description": "Abstract Syntax Trees(AST) and Practical Applications in JavaScript",
+  "author": "Jude Agboola",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.23.0",
+    "eslint": "^8.19.0"
+  },
+  "scripts": {
+    "build": "babel src --out-dir dist",
+    "lint": "eslint src",
+    "lint:fix": "eslint src --fix"
+  },
+  "dependencies": {
+    "babel-plugin-remove-console": "workspace:^",
+    "eslint-plugin-emojify-array": "workspace:^"
+  }
+}
