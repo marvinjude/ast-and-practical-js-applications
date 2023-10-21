@@ -6,6 +6,6 @@
 
 module.exports = {
   rules: {
-    "padded-emoji-array": require("./rules/padded-emoji-array"),
+
   },
 };
