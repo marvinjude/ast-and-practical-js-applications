@@ -1,6 +1,6 @@
 ## AST and Practical Applications in JavaScript
 
-This repository contains a Babel and Eslint plugin from my article on [AST and Practical Applications in JavaScript](https://dev.to/marvinjude/soo-about-ast-and-code-transformation-5em3-temp-slug-7368593). It aims to explain the concept of AST along with practical use cases in JavaScript land. 
+This repository contains a Babel and Eslint plugin from my article on [AST and Practical Applications in JavaScript](https://dev.to/marvinjude/abstract-syntax-trees-and-practical-applications-in-javascript-4a3). It aims to explain the concept of AST along with practical use cases in JavaScript land. 
 
 Check out the article [here](https://dev.to/marvinjude/abstract-syntax-trees-and-practical-applications-in-javascript-4a3)
 
